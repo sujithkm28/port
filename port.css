@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+    background: linear-gradient(to right, #0e0e42 0%, #6699ff 100%);
+
+}
+header{
+    background-color: rgb(8, 10, 117);
+    color: aliceblue;
+    padding: 20px;
+    border-radius: 5px;
+}
+li{
+    display: inline;
+    padding: 30px;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+img{
+    height: 230px;
+    width: 230px;
+    border-radius: 50%;
+}
+#PortFolio{
+    background-color: rgb(30, 123, 230);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+footer{
+    background-color: rgb(12, 9, 48);
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 5px;
+}
+h2{
+    color: white;
+}
+p{
+    color: white;
+}
+pre{
+    color: white;
+}
+
+ul{
+    color: white;
+}
